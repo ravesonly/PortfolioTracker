@@ -1,0 +1,11 @@
+C:\Users\rwuser\source\repos\PortfolioTracker\PortfolioTracker.BL\obj\Debug\netstandard2.1\PortfolioTracker.BL.csprojAssemblyReference.cache
+C:\Users\rwuser\source\repos\PortfolioTracker\PortfolioTracker.BL\obj\Debug\netstandard2.1\PortfolioTracker.BL.AssemblyInfoInputs.cache
+C:\Users\rwuser\source\repos\PortfolioTracker\PortfolioTracker.BL\obj\Debug\netstandard2.1\PortfolioTracker.BL.AssemblyInfo.cs
+C:\Users\rwuser\source\repos\PortfolioTracker\PortfolioTracker.BL\bin\Debug\netstandard2.1\PortfolioTracker.BL.deps.json
+C:\Users\rwuser\source\repos\PortfolioTracker\PortfolioTracker.BL\bin\Debug\netstandard2.1\PortfolioTracker.BL.dll
+C:\Users\rwuser\source\repos\PortfolioTracker\PortfolioTracker.BL\bin\Debug\netstandard2.1\PortfolioTracker.Data.dll
+C:\Users\rwuser\source\repos\PortfolioTracker\PortfolioTracker.BL\bin\Debug\netstandard2.1\PortfolioTracker.Data.pdb
+C:\Users\rwuser\source\repos\PortfolioTracker\PortfolioTracker.BL\obj\Debug\netstandard2.1\PortfolioTracker.BL.csproj.CopyComplete
+C:\Users\rwuser\source\repos\PortfolioTracker\PortfolioTracker.BL\bin\Debug\netstandard2.1\PortfolioTracker.BL.pdb
+C:\Users\rwuser\source\repos\PortfolioTracker\PortfolioTracker.BL\obj\Debug\netstandard2.1\PortfolioTracker.BL.dll
+C:\Users\rwuser\source\repos\PortfolioTracker\PortfolioTracker.BL\obj\Debug\netstandard2.1\PortfolioTracker.BL.pdb

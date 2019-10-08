@@ -1,0 +1,13 @@
+C:\Users\rwuser\source\repos\PortfolioTracker\StockUI\bin\Debug\netcoreapp3.0\StockUI.exe
+C:\Users\rwuser\source\repos\PortfolioTracker\StockUI\bin\Debug\netcoreapp3.0\StockUI.deps.json
+C:\Users\rwuser\source\repos\PortfolioTracker\StockUI\bin\Debug\netcoreapp3.0\StockUI.runtimeconfig.json
+C:\Users\rwuser\source\repos\PortfolioTracker\StockUI\bin\Debug\netcoreapp3.0\StockUI.runtimeconfig.dev.json
+C:\Users\rwuser\source\repos\PortfolioTracker\StockUI\bin\Debug\netcoreapp3.0\StockUI.dll
+C:\Users\rwuser\source\repos\PortfolioTracker\StockUI\bin\Debug\netcoreapp3.0\StockUI.pdb
+C:\Users\rwuser\source\repos\PortfolioTracker\StockUI\obj\Debug\netcoreapp3.0\StockUI.csprojAssemblyReference.cache
+C:\Users\rwuser\source\repos\PortfolioTracker\StockUI\obj\Debug\netcoreapp3.0\StockUI.AssemblyInfoInputs.cache
+C:\Users\rwuser\source\repos\PortfolioTracker\StockUI\obj\Debug\netcoreapp3.0\StockUI.AssemblyInfo.cs
+C:\Users\rwuser\source\repos\PortfolioTracker\StockUI\obj\Debug\netcoreapp3.0\StockUI.dll
+C:\Users\rwuser\source\repos\PortfolioTracker\StockUI\obj\Debug\netcoreapp3.0\StockUI.pdb
+C:\Users\rwuser\source\repos\PortfolioTracker\StockUI\bin\Debug\netcoreapp3.0\LiteDB.dll
+C:\Users\rwuser\source\repos\PortfolioTracker\StockUI\obj\Debug\netcoreapp3.0\StockUI.csproj.CopyComplete
